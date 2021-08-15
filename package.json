@@ -39,7 +39,7 @@
     "gatsby-theme-ghost-members": "^2.0.0",
     "gatsby-theme-try-ghost": "^2.0.0",
     "gatsby-transformer-rehype": "^1.9.8",
-    "preact": "^10.5.12",
+    "preact": "^10.5.14",
     "preact-render-to-string": "^5.1.12",
     "prismjs": "^1.23.0",
     "react": "^17.0.1",
