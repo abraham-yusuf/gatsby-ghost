@@ -28,7 +28,7 @@
     "deploy": "gatsby build && echo 'demo.jamify.org' > public/CNAME && gh-pages -f -d public -b master -r git@github.com:styxlab/styxlab.github.io"
   },
   "dependencies": {
-    "gatsby": "^3.0.0",
+    "gatsby": "^3.13.0",
     "gatsby-plugin-ackee-tracker": "^2.2.0",
     "gatsby-plugin-gatsby-cloud": "^2.10.0",
     "gatsby-plugin-netlify": "^3.0.0",
